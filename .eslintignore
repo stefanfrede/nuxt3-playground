@@ -1,0 +1,2 @@
+# Override implicit ignore rules
+!.stylelintrc.json
